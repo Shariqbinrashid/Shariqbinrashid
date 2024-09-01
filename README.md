@@ -1,8 +1,7 @@
 # Hi I'm Shariq 👋
 
 Welcome to my Github!
-I am Computer Science Student and aspiring to become entrepreneur, full stack developer, DevOps Engineer and Machine Learning expert. 
-[connect with me](https://www.linkedin.com/in/yousaf530/)!
+[connect with me]()!
 
 
 ### 🛠 &nbsp;Tech Stack
