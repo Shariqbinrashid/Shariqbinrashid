@@ -1,33 +1,41 @@
-# Hi I'm Shariq 👋
+# 👋 Hi, I'm Shariq Bin Rashid
 
-Welcome to my Github!
-[connect with me]()!
+**Full-Stack Developer** × **AI Engineer**  
+Building production apps with React, Node.js, Flutter | Exploring LLM agents & RAG systems
 
+📍 Islamabad, Pakistan  
+🌐 [shariqbinrashid.github.io](https://shariqbinrashid.github.io)  
+📫 [shariqbinrashid@gmail.com](mailto:shariqbinrashid@gmail.com)
 
-### 🛠 &nbsp;Tech Stack
+---
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+## 🚀 Currently Working On
 
+- 🤖 Building LLM agents with MCP & Agent Skills
+- 📚 Learning Forward Deployed Engineering → [View Roadmap](https://shariqbinrashid.github.io/fde-roadmap)
+- 💻 Full-stack web apps with React & Node.js
 
-![Shariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=shariqbinrashid&show_icons=true&theme=radical)
+---
 
-![Shariq's GitHub Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=shariqbinrashid&show_icons=true&hide_border=true")
+## 🛠️ Tech Stack
 
+**Frontend:** React • Flutter • HTML/CSS  
+**Backend:** Node.js • Python • Java  
+**AI/ML:** LangChain • MCP • Claude • OpenAI  
+**Tools:** Git • VS Code • Eclipse
 
+---
 
-[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:shariqbinrashid@gmail.com)](mailto:sahriqbinrashid@gmail.com) [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariqbinrashid/) 
+## 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shariqbinrashid&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shariqbinrashid&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shariqbinrashid/)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shariqbinrashid@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://shariqbinrashid.github.io)
